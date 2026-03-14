@@ -100,4 +100,7 @@ Relevant Coursework: Data Structures, Machine Learning, Web Development
 **Portfolio:** [anishkumar.online](https://anishkumar.online)
 **LinkedIn:** [linkedin.com/in/anish-kumar-gupta-6a9b50251](https://www.linkedin.com/in/anish-kumar-gupta-6a9b50251)
 
+
 Let's build something extraordinary together.
+
+![Profile Views](https://komarev.com/ghpvc/?username=Outsideorbit29&color=0077b5&label=Profile+views&style=flat-square)
