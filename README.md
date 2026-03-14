@@ -1,7 +1,7 @@
 # Anish Kumar Gupta
 Full Stack Engineer | AI Architect
 
-[Portfolio](https://anishkumar.online) | [LinkedIn](https://www.linkedin.com/in/anish-kumar-gupta-6a9b50251) | [GitHub](https://github.com/Outsideorbit29) | [Twitter (X)](https://x.com/Anish_029)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-FF4B11?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anishkumar.online) [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-kumar-gupta-6a9b50251) [![EMAIL](https://img.shields.io/badge/EMAIL-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish.grd2004@gmail.com) [![RESUME](https://img.shields.io/badge/RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://anishkumar.online/api/resume)
 
 ## About
 Full Stack Engineer and AI Architect passionate about building high-performance web applications and cognitive computing systems. I bridge the gap between complex data science and elegant front-end interfaces, focusing on scalability and user-centric design. Currently specializing in React/Next.js and AI-driven architectures.
