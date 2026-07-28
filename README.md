@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI-Powered+Products+%F0%9F%A4%96;Full+Stack+Engineer+%7C+React+%2B+Next.js+%2B+FastAPI;Making+Intelligence+Accessible+%F0%9F%9A%80;Open+to+Exciting+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI-Powered+Products+%F0%9F%A4%96;Full+Stack+Engineer+%7C+React+%2B+Next.js+%2B+FastAPI;Designing+Agentic+AI+%26+RAG+Systems+%F0%9F%A7%A9;Making+Intelligence+Accessible+%F0%9F%9A%80;Open+to+Exciting+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,9 +33,9 @@ const anish = {
   role:       "Full Stack Engineer & AI Architect",
   location:   "Madhya Pradesh, India 🇮🇳",
   education:  "B.Tech CSE @ VIT Bhopal University",
-  focus:      ["Scalable Web Apps", "AI/ML Systems", "Cognitive Computing"],
-  building:   "End-to-end products — from pixel-perfect UIs to intelligent backends",
-  openTo:     ["Full-Stack Roles", "AI/ML Engineering", "Remote / Relocation"],
+  focus:      ["Scalable Web Apps", "Agentic AI Systems", "RAG Pipelines", "Cognitive Computing"],
+  building:   "End-to-end products — from pixel-perfect UIs to intelligent, tool-using AI agents",
+  openTo:     ["Full-Stack Roles", "AI/ML Engineering", "GenAI / Agentic AI Roles", "Remote / Relocation"],
   funFact:    "I turn caffeine into scalable, AI-powered systems ☕→🤖"
 };
 ```
@@ -73,9 +73,20 @@ const anish = {
 ### 🤖 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🧬 GenAI · Agentic AI · Automation
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
 ### 🛠️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -174,7 +185,7 @@ const anish = {
 
 <div align="center">
 
-I'm actively looking for **Full-Stack**, **AI/ML**, or **Software Architect** roles at **product companies, fintech, or AI startups**.
+I'm actively looking for **Full-Stack**, **AI/ML**, **Agentic AI**, or **Software Architect** roles at **product companies, fintech, or AI startups**.
 
 If you're building something bold — let's talk.
 
