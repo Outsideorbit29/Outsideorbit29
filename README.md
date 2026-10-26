@@ -1,25 +1,25 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anish%20Kumar%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Architect&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1a2f,100:00303f&height=200&section=header&text=Anish%20Kumar%20Gupta&fontSize=52&fontColor=00f0ff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Architect&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI-Powered+Products+%F0%9F%A4%96;Full+Stack+Engineer+%7C+React+%2B+Next.js+%2B+FastAPI;Designing+Agentic+AI+%26+RAG+Systems+%F0%9F%A7%A9;Making+Intelligence+Accessible+%F0%9F%9A%80;Open+to+Exciting+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI-Powered+Products+%F0%9F%A4%96;Full+Stack+Engineer+%7C+React+%2B+Next.js+%2B+FastAPI;Designing+Agentic+AI+%26+RAG+Systems+%F0%9F%A7%A9;Making+Intelligence+Accessible+%F0%9F%9A%80;Open+to+Exciting+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-anishkumar.online-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anishkumar.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-kumar-gupta-6a9b50251)
-[![Email](https://img.shields.io/badge/Email-anish.grd2004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish.grd2004@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://anishkumar.online/api/resume)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anishkumar.online-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anishkumar.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0B0F19?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-kumar-gupta-6a9b50251)
+[![Email](https://img.shields.io/badge/Email-anish.grd2004@gmail.com-0B0F19?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish.grd2004@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-0B0F19?style=for-the-badge&logo=googledrive&logoColor=white)](https://anishkumar.online/api/resume)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Outsideorbit29&color=7C3AED&label=Profile+Views&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/Outsideorbit29?label=Followers&style=flat-square&color=7C3AED)
+![Profile Views](https://komarev.com/ghpvc/?username=Outsideorbit29&color=00F0FF&label=Profile+Views&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Outsideorbit29?label=Followers&style=flat-square&color=00F0FF)
 
 </div>
 
@@ -49,51 +49,51 @@ const anish = {
 <div align="center">
 
 ### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![React](https://img.shields.io/badge/React-0B0F19?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0B0F19?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0F19?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0F19?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-0B0F19?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0B0F19?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B0F19?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-0B0F19?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0B0F19?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-0B0F19?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B0F19?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0B0F19?style=for-the-badge&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-0B0F19?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0F19?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B0F19?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0B0F19?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0B0F19?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0B0F19?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-0B0F19?style=for-the-badge&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0B0F19?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🧬 GenAI · Agentic AI · Automation
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
-![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0B0F19?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0B0F19?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-0B0F19?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-0B0F19?style=for-the-badge&logo=microsoft&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude_API-0B0F19?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0B0F19?style=for-the-badge&logo=huggingface&logoColor=black)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0B0F19?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-0B0F19?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-0B0F19?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-0B0F19?style=for-the-badge&logo=make&logoColor=white)
 
 ### 🛠️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0B0F19?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0B0F19?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0B0F19?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0B0F19?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-0B0F19?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -119,8 +119,8 @@ const anish = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Outsideorbit29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Outsideorbit29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Outsideorbit29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a14&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Outsideorbit29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0a0a14&title_color=00f0ff&text_color=c9d1d9"/>
 
 </div>
 
@@ -146,7 +146,7 @@ const anish = {
 
 <div align="center">
 
-[![Anish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Outsideorbit29&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Outsideorbit29&theme=tokyonight&bg_color=0a0a14&color=A78BFA&line=7C3AED&point=A78BFA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -189,12 +189,12 @@ I'm actively looking for **Full-Stack**, **AI/ML**, **Agentic AI**, or **Softwar
 
 If you're building something bold — let's talk.
 
-[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish.grd2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-kumar-gupta-6a9b50251)
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anishkumar.online)
+[![Email](https://img.shields.io/badge/Email%20Me-0B0F19?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish.grd2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-kumar-gupta-6a9b50251)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anishkumar.online)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1a2f,100:00303f&height=100&section=footer" width="100%"/>
 
 </div>
